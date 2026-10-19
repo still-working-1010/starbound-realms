@@ -22,6 +22,7 @@ yarn.lock
 .env.development
 .env.production
 backend/.env
+temp_auto_push.bat
 frontend/.env
 
 # ── Stellar / Soroban ─────────────────────────────────────────────────────────
@@ -44,7 +45,8 @@ pnpm-debug.log*
 Thumbs.db
 
 # ── IDE ───────────────────────────────────────────────────────────────────────
-.vscode/
 .idea/
 *.swp
 *.swo
+.gitignore
+branch_structure.json
